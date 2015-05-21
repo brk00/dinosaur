@@ -1,0 +1,5 @@
+[package]
+
+name = "dinosaur"
+version = "0.0.1"
+authors = [ "Paulo Roberto de Oliveira Castro <p.oliveira.castro@gmail.com", "Rodrigo de Azeredo Orselli <rodrigo.orselli@gmail.com>", "Lucas Silva Simões <simoes.lucas.silva@gmail.com>" ]
